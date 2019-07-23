@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+
+}
+.hide{
+
+    display: none;
+    top: 50%;
+    left: 50%;
+}
